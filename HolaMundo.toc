@@ -1,0 +1,4 @@
+## Interface: 11404
+## Title: Hola Mundo
+## Notes: Dice hola mundo en el chat
+HolaMundo.lua
