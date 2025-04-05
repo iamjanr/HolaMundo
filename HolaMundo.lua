@@ -1,2 +1,2 @@
 _G.print = require("print") or print
-print("Hola mundo v2")
+print("Hola mundo v1")
